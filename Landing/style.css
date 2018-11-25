@@ -6,17 +6,20 @@ body {
     width: 100%;
     max-width: 1000px;
 }
-#wrapper {
-	margin: 0 auto;
+
+#header {
+    color: #daa520;
+    margin-top: 20%;
+    height: 100px;
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+
+#wrapper {   
+	margin: 20% 10%;
 	width:80%;
 }
-#header {
-	color: #daa520;
-	margin-top:0;
-    height:100px;
-    text-transform:uppercase;
-	padding-top: 40px;
-}
+
 h1 {
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;

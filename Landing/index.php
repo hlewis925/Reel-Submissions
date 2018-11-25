@@ -11,7 +11,7 @@
 
 <body>
 	<div id="header">
-		<div id="leftside"><img src="logo.jpg"></div>
+		<!--<div id="leftside"><img src="logo.jpg"></div>-->
 		<div class="rightside">
 			<h1 class="title">Reel</h1>
 			<br>
@@ -22,8 +22,10 @@
 	<div id="content">
 	<h3>Coming to you soon</h3>
 	<h3>a platform by creatives for creatives</h3>
-	<p>We're a group of problem solvers bringing forward a gateway for artists and filmmakers. As artists and creator ourselves, we know the challenge of trying to get <em>your work, your message, and your story </em>out into the world</p>
-	<p>To the creative, the diligent, the beginners, the experts, the censored the curious, the emotional and the insatiable; this is the place for you</p>
+	<p>Open call to the creative, the diligent, the beginners, the experts, the censored, the curious, the existential and the insatiable. </p>
+	<p>As artists and creator ourselves, we know the challenges that all filmmakers, and artists, face.</p>
+	<p>A group of female artists created reel submissions as a community gateway for film lovers, filmmakers and film festivals.</p>
+	<p>Join us so we can tell the stories of the world together.</p>
 	 <form action="thank.php" method="post" id="newsletter" name="newsletter">
 		<input type="email" name="signup-email" id="signup-email" value="" placeholder="Insert email here" />
 		 <button type="submit" value="Subscribe" name="signup-button" id="signup-button">Sign Up</button>
